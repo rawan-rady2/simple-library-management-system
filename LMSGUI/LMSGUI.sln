@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMSGUI", "LMSGUI\LMSGUI.csproj", "{5F09B1FF-8C3A-4E1F-AA79-E2BD5CDF27A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F09B1FF-8C3A-4E1F-AA79-E2BD5CDF27A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F09B1FF-8C3A-4E1F-AA79-E2BD5CDF27A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F09B1FF-8C3A-4E1F-AA79-E2BD5CDF27A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F09B1FF-8C3A-4E1F-AA79-E2BD5CDF27A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {089748B6-BF0B-4602-807D-A345EFD8C6BA}
+	EndGlobalSection
+EndGlobal
